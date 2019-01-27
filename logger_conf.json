@@ -1,0 +1,9 @@
+{
+	"Logs_path":"../logs/",
+	"Logs_files":[
+		"mts_pay.log",
+		"mts.log",
+		"espp.log"
+	],
+	"Ext":"xz"
+}
